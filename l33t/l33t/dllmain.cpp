@@ -1,6 +1,21 @@
 /*
 	Absolutely amazing
 */
+
+/* 
+	
+		LEET IS VERY FUN
+		LEET IS VERY FUN
+		LEET IS VERY FUN
+		LEET IS VERY FUN
+		LEET IS VERY FUN
+		LEET IS VERY FUN
+		LEET IS VERY FUN
+		LEET IS VERY FUN
+		LEET IS VERY FUN
+
+*/
+
 #include <Windows.h>
 #include <thread>
 
